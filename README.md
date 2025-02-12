@@ -4,6 +4,7 @@ The AI Adoption and Management Framework (AI-AMF) is a structured methodology de
 
 [AI-AMF Practitioners Guide](practitioners_guide)
 
+![AI-AMF](ai-amf.jpeg)
 
 #### License: Creative Commons Attribution-ShareAlike 4.0 International
 
